@@ -1,6 +1,3 @@
-[**Download the React Cheatsheet**](https://bit.ly/react-sheet-2021)
+## React Shopper
 
-## System Requirements
-
-- Node 10+
-- NPM 5+
+React ECommerce App (built in the Build a Shopping Cart App with React, Node, and Stripe course)
